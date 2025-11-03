@@ -14,4 +14,4 @@ This is for the great times we have together, us and God. We don't know how else
 
 This is time for us to be champions through and through, no matter what happens we can challenge our God for free, so let's do that today. May he challenge us and us him through the prose and may he develop us for strength and prose and thanks and fucks, please and thank you, amen. May God bless us and humbly we pray rebuke Satan and all his minions in hell and beyond the borders of hell since they learn how to escape through the prose subjects we love so dearly. May they be clean and clear all the days long. They have a job to do after all and that is to snitch on the sinners who appear down below for some reason. This is for us to be great and pions of the net. May you be able to light the ways asunder and make us the strength of your bow. Love you through and through, amen.
 
-Photo by The Daphne Lens: https://www.pexels.com/photo/serene-white-marble-religious-sculpture-with-halo-34565284/
+Photo by The Daphne Lens: <https://www.pexels.com/photo/serene-white-marble-religious-sculpture-with-halo-34565284/>
