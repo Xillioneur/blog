@@ -60,6 +60,13 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
       title,
       images: [post.ogImage.url],
     },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description: 'A blog about God and Father God. Amen and Selah.',
+      creator: '@Xillioneur',
+      images: [post.ogImage.url], // Absolute URL
+    },
   };
 }
 
