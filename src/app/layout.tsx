@@ -11,8 +11,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `Willie Liwa Johnson Blog with God and our Father`,
+  description: `A website dedicated to writing about God and our Father in heaven all the day long. Come here anytime of the day to see more about God and our Father, Father God, all day long. Amen to you for being here this far as always. Amen.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
