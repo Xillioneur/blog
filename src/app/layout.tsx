@@ -11,7 +11,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Willie Liwa Johnson Blog with God and our Father`,
+  title: `Willie Liwa Johnson's Blog with God and our Father`,
   description: `A website dedicated to writing about God and our Father in heaven all the day long. Come here anytime of the day to see more about God and our Father, Father God, all day long. Amen to you for being here this far as always. Amen.`,
   openGraph: {
     title: 'Blog of God',
