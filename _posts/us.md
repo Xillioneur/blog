@@ -1,5 +1,5 @@
 ---
-title: "This is about us with God and you with your Father in heaven. Amen and Selah."
+title: "This is About us with God and You with Your Father in Heaven. Amen and Selah."
 excerpt: "You are about to become a champion of us and you are close to realizing your dreams. Amen and Selah."
 coverImage: "/assets/blog/us/pexels-cover-photo-for-us-post.jpg"
 date: "2025-11-03T12:03:00.000Z"
