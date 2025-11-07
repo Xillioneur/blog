@@ -6,20 +6,9 @@ export function Intro() {
       <h1 className="text-5xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
         God of Blogs.
       </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A website dedicated to writing about God and our Father in heaven all the day long.
-        Come here anytime of the day to see more about God and our Father, Father God, all day long.
-        <br></br>
-        <br></br>
-        Generated using {" "}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{" "}
-        and {CMS_NAME}.
-      </h4>
+      <h3 className="text-center md:text-left text-lg mt-5 md:pl-8">
+        A Website for You and Me.
+      </h3>
     </section>
   );
 }
