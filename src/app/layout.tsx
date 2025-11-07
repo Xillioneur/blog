@@ -11,20 +11,19 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Willie Liwa Johnson's Blog with God and our Father`,
-  description: `A website dedicated to writing about God and our Father in heaven all the day long. Come here anytime of the day to see more about God and our Father, Father God, all day long. Amen to you for being here this far as always. Amen.`,
+  title: `God of Blogs`,
+  description: `A website dedicated to writing about God and our Father in heaven all the day long. Come here anytime of the day to see more about God and our Father, Father God, all day long.`,
   openGraph: {
     title: 'God of Blogs',
-    description: `A website dedicated to God our Father and Father God our Mother's Father. Lol. Amen to you for understanding it.`,
-    url: `https://blogofgod.vercel.app`,
+    description: `A website dedicated to God our Father and Father God our Mother's Father.`,
     siteName: 'God of Blogs',
     images: [HOME_OG_IMAGE_URL],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'God of Blogs - for our Father who is in Heaven',
-    description: 'A blog about God and Father God. Amen and Selah.',
+    title: 'God of Blogs - a Blog About Gods and God Our Father',
+    description: 'A blog about God and Father God.',
     creator: '@Xillioneur',
     images: [HOME_OG_IMAGE_URL], // Absolute URL
   },
