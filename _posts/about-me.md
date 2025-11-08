@@ -3,8 +3,9 @@ title: "About Willie Liwa Johnson"
 excerpt: "About your good sir, Willie Liwa Johnson."
 coverImage: "/assets/blog/aboutme/pexels-cover-photo-for-about-me.jpg"
 date: "2025-11-03T07:51:00.000Z"
+edited: "2025-11-05T20:24:00.000Z"
 author:
-  name: Willie L. Johnson
+  name: Willie Liwa Johnson
   picture: "/assets/blog/authors/will.png"
 ogImage:
   url: "/assets/blog/aboutme/pexels-cover-photo-for-about-me.jpg"
