@@ -63,7 +63,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     twitter: {
       card: 'summary_large_image',
       title,
-      description: 'A blog about God and Father God. Amen and Selah.',
+      description: `${post.excerpt}`,
       creator: '@Xillioneur',
       images: [post.ogImage.url], // Absolute URL
     },
