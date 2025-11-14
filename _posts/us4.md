@@ -2,8 +2,8 @@
 title: "This Is for Us Through the Book of Love and Life and Prose and Sentencing, Lol"
 excerpt: "I unlock everything I do, thanks be to God. Amen and good day to you. May God bless you all as always."
 coverImage: "/assets/blog/us4/pexels-cover-photo-for-us4-post.jpg"
-date: "2025-11-11T11:13:00.000Z"
-edited: "2025-11-11T11:13:00.000Z"
+date: "2025-11-14T07:23:00.000Z"
+edited: "2025-11-14T07:23:00.000Z"
 author:
   name: Willie Liwa Johnson
   picture: "/assets/blog/authors/will.png"
