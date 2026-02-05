@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: 'This is for all of us to cherish our time with God and develop the means to encourage each other to do the same thing with prose, script, and words.',
   // Critical for fixing your GSC duplicate issue
   alternates: {
-    canonical: 'https://godofblgos.xyz',  // ← CHANGE THIS (no trailing slash!)
+    canonical: 'https://godofblogs.xyz',  // ← CHANGE THIS (no trailing slash!)
     // or use env var: process.env.NEXT_PUBLIC_SITE_URL || 'https://your-domain.com'
   },
   // Optional: If you want homepage-specific OG/Twitter overrides
