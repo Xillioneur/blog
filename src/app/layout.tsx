@@ -24,6 +24,10 @@ export const metadata: Metadata = {
     creator: '@Xillioneur',
     images: [HOME_OG_IMAGE_URL], // Absolute URL
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
