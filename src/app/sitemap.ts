@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/api';
 
-export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://godofblogs.xyz';
   let posts = [];
   
@@ -13,11 +13,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const postEntries: MetadataRoute.Sitemap = posts.map((post) => {
     let lastMod = new Date();
-    if (post.date) {
-      const parsedDate = new Date(post.date);
-      if (!isNaN(parsedDate.getTime())) {
-        lastMod = parsedDate;
+    try {
+      if (post.date) {
+        lastMod = new Date(post.date);
       }
+    } catch (e) {
+      // fallback to current date
     }
     
     return {
